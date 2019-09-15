@@ -1,0 +1,17 @@
+{
+  "name": "needless-prod-file-removal/remover",
+  "description": "Remove files not necessary for production",
+  "license": "MIT",
+  "authors": [{
+    "name": "Andreas Heigl",
+    "email": "andreas@heigl.org",
+    "role" : "developer"
+  }, {
+    "name" : "Andreas Frömer",
+    "email" : "TBD",
+    "role" : "developer"
+  }],
+  "support" : {
+    "issues" : "https://github.com/needlessProdFileRemoval/interface/issues"
+  }
+}
